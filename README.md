@@ -1,7 +1,6 @@
 a student hobbyuse
 <br>
 ## learning/using
-<hr>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,java,c,cpp,unreal,ableton,ae)](https://skillicons.dev)
 <br>
