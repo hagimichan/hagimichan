@@ -1,4 +1,7 @@
 student hobbyuse
 <br>
-lerning/using
+learning
+<br>
 [![My Skills](https://skillicons.dev/icons?i=html,css,java,c,cpp,unreal,ableton,ae)](https://skillicons.dev)
+<br>
+![](https://komarev.com/ghpvc/?username=your-github-username)
